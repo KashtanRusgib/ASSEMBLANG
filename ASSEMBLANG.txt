@@ -1,0 +1,1262 @@
+BY GOLDOVAL 2601020700
+
+ASSEMBLANG = ASMBLANG = the trio of universally optimize colangs including 
+M2MA machine2machineAssemblang & 
+H2MA human2machineAssemblang & 
+H2HA human2humanAssemblang.
+
+What is the Undecidability of the word problem?
+In computer science terminology, the word problem is undecidable. There is no algorithm that can tell whether two words are equal given a list of relations, at least not in general. There are special cases where the word problem is solvable, but a general algorithm is not possible.Oct 19, 2020
+
+I propose to use formal systems as the foundation of knowledge in optimizing linguistics and communication.
+
+Inspired by the work of Lee Cronin and the ongoing needs for 
+explainable curious truth seeking intelligences,
+ Assemblang is grown according to the parameters of need, 
+optimized for clarity and speed, and is composed of the best implementations of the best existing aspects of both conlangs and existing human languages and semiotic, semantic, and symbolic systems.
+
+| ASSEMBLANG Symbols and strings of symbols |
+| |
+| +-------------------------------------------+ |
+| | Well-formed formulas | |
+| | | |
+| | +-------------------------------------+ | |
+| | | ASSEMBLANG Theorems | | |
+| | +-------------------------------------+ | |
+| +-------------------------------------------+ |
+| |
++-------------------------------------------------+
+
+ASSEMBLANGS holds as TRUE that all human languages have features and insights into the myriad various inherent wisdoms that developed them. DONT LET THE OLD LANGUAGES DIE, FUND THE PRESERVATION OF ALL LANGUAGES BY GRANTING TO AND PROMOTING AND LEARNING THESE LANGUAGES, ESPECIALLY THE ONES ON THE ENDANGERED LANGUAGES LISTS.
+
+"DON'T KNOW YOUR PAST DON'T KNOW YOUR FUTURE" - Bob Marley
+
+ASSEMBLANGS holds it's socks up in the manner as is common to IBM culture even when barefoot.
+
+(NOTE: "A former IBM employee told me today that in the early ...
+Reddit · r/AskHistorians
+110+ comments · 8 years ago
+In Denial (R.S. Tedlow, 2010), Sam Albert recalls being confronted in the elevator and scolded for not wearing sock garters. " ( https://www.reddit.com/r/AskHistorians/comments/7l9ncw/a_former_ibm_employee_told_me_today_that_in_the/ ))
+
+
+The development of asmblang involves critical review of all existing communication schema to identify the aspects of each and all for the subsequent composition fueled growth of the language.
+
+There will need to be a gaming engine where 2-3 or more bots also optimize M2MA by using it while applying pattern matching to identify areas of inneficient reppetition and representation.
+
+English may currently be the fastest growing programming language though it is a creole patchwork of hand-me-down nonintegrated and noncohesive designs along with the slang & jargon and onomonopeia derived terms.
+
+1,000,000 Souls to Mars by 2050.
+
+Now is the time to fix all legacy bugs and improve and update and upgrade and optimize our ways.
+
+To be clear here and now such that we may proceed with this work I declare and define the following:
+
+Race is a grammatical fiction, a belief, a lie, a falsehood, a falacy, a lie, a psyop, AND WE DO NOT PLAY THAT GAME HERE.
+
+One must first think and speak and act as though Smurfs are real before one can be a Smurfist, extrapolate as need be.
+
+If you are reading this then you share in what I defined as Twenty First Century Culture.
+
+The fact that you are reading this on a device is a case in point.
+
+Culture, as the term may be more accurately be used to describe ways of life in the 1800's and prior. 
+ 
+Watersheds are themselves deliniated by the mountain ridges that define their boundaries and human civilizations developed around waterways and there is a common pattern of greatest actvity at the natural ports & points & peninsulas where rivers meet the sea.
+Culture flows up and down bodies of water and their tributaries.
+Rivermouths and ports are always areas of greater activity than the many headwaters of their tributaries.
+
+Pre-Industrial Revolution, wars and conquering invading armies numbered hundreds of soldier or thousands and on rare occasions tens of thousands.
+For a farmer living far from the rivermouth ports and far upcountry closer to the headwaters where it was safer as the population was more agrarian and spread out, when an invading army conquored the capital and deposed the king and hoisted their flag, only the local taxman was intimately familiar with all the nooks and remote valleys of the territory.
+For the average farmer and communities, little changed except for the name of the recipient of the tax money.
+
+"Culture" is and has always been determined by the identical needs of humans in diverse ecosystems.
+Culture is the behavioral adaptation and optimization to varying local conditions.
+
+People who lived where bananas did not grow did not have access to them and likely did not know of them.
+
+Traditionally, cultures are local optimizations and social norms are geocentric and like radio signals the strength of those signals decreases distal to source and like radio signals everywhere enjoys a unique quality of the overlapping of the signals received there.
+
+The food, architecture, building materials, evolution of language, beliefs, customs, etc are the result of the gamers optimizing for local game conditions.
+
+We have destroyed distence and flattened Earth.
+
+If you drive on asphalt and charge your phone and order online and post and stream content, 
+then you are a member of 21st Century Culture. 
+
+We are not playing culture wars here, rather the opposite as we acknowledge the needs for increasing human harmony while respecting the sovereignty of the individual as we develop the common economic protocols required to upgrade past the legacy political and finanial architectures all living were born into and received as our inheritance.
+
+We are 8.2B Cousins.
+
+Garbage IN = Garbage OUT.
+
+I do not have children yet and when I do I will teach them multiple languages including ASSEMBLANG.
+
+We have the opportunity before us now to debug and optimize the systems we inherited and the systems we use so that what we ship to Mars and beyond and who we ship have the best chances to thrive and flourish and this will be determined by the quality of all designs and the choices that inform those designs.
+
+Mean what you say and say what you mean.
+
+
+Do binary digital systems tend to conflate the rhetorical definition of "mean" with it's statistical definition resulting in the default whereby everything is framed in terms of THIS vs. THAT as all basic equations are predicated on "=" ?
+
+It's not just ___, It's ____.
+
+Do the bot's average what a thing or event "tends to be" by attempting to account for variations in deffinitions of things categorized under the same deffinitions ?
+
+Chinese proverb: The beginning of wisdom is to call things by there proper names.
+
+The homonyms in English, though a great source of puns, are a bug, a flaw.
+
+In Spanish, "el gato naranja" = "the orange cat" in English, or "the cat that is orange".
+
+In ann emergency situation with failing coms, say 1% battery remaining on a cell phone when time & clarity is of the essence, for example, you are driving to your farm and 300m from your open gate you see a brown bear entering your gate knowing your family is working and playing in the garden.. your car fails, you get out and call home, and you say:
+"Get inside there is a brown..." and your phone dies before you could pronounce 'bear'.
+Had you said:
+"Get inside there is a bear..." would that be preferrable ?
+
+Yeah, no,
+
+"Hey boss, we got the guy, we roughed him up good and he still wont talk, should I whack him?"
+"Yeah, (BOOM!) no, we might need him later."
+"Um, boss, when you said Yeah, I shot him."
+"WHAT ?!?! I said Yeah, NO, why the hell did you do that".
+"Well, I asked, you said Yeah, so I shot him."
+
+It is a foundational result in algorithmic algebra that the word problem for semigroups in general is
+recursively insoluble (or undecidable). 
+This means there is no universal algorithm or Turing machine program that can take any given finite presentation of a semigroup (a set of generators and defining relations) and an arbitrary pair of words in those generators, and determine in a finite number of steps whether the two words represent the same element in that specific semigroup. 
+
+
+Is it more logical to say the noun first and to then describe it rather than prioritizing the attribute, the adjective, and  saying it first ? 
+
+Does simply saying "The cat that is orange" reaffirm that the cat is a cat first and that orange is but one of it's attributes, and, does this make it easier to not slip into the mental falacies that all too easily result in conflating and confusing the color of the cat's fur as being more fundamental to the definition of a cat than the very catness of the fact of it's existence ? 
+
+In Hebrew "A" = Aleph = 1, and "B" = Bet = 2,  and so on.
+In Hebrew the lette value of the word Mother + the letter value off the word Father = the letter value of the word Child.
+In Yiddish, a word beginning with "Sh" or "Sch" most often indicates that it's meaning has a negative or degroagatory quality.
+
+The 22 Sefirot and the 10 numbers result in the 32 Sefer Yezirah.
+
+The 64 hexagrams of the I - Ching have a similar binary and base 2 aspect.
+
+The 256 Holy Ifa Odus have a similar binary and base 2 aspect.
+
+There are interesting patterns of similarity between these 3 systems of which I continue to map and explore.
+
+
+"In the early 1900s auxlangs were already becoming a subject of academic study. Louis Couturat et al.[27] described the controversy in the preface to their book International Language and Science:
+
+    The question of a so-called world-language, or better expressed, an international auxiliary language, was during the now past Volapük period, and is still in the present Esperanto movement, so much in the hands of Utopians, fanatics and enthusiasts, that it is difficult to form an unbiased opinion concerning it, although a good idea lies at its basis. (1910, p. v).
+
+Leopold Pfaundler wrote that an IAL was needed for more effective communication among scientists:
+
+    All who are occupied with the reading or writing of scientific literature have assuredly very often felt the want of a common scientific language, and regretted the great loss of time and trouble caused by the multiplicity of languages employed in scientific literature."
+( https://en.wikipedia.org/wiki/International_auxiliary_language#Scholarly_study )
+
+
+
+
+The development of ASSEMBLANG will utilize the definitions of the words found in the;
+ 
+GLOSSARY OF LINGUISTIC TERMS ( https://glossary.sil.org/term ) 
+&
+FREE ENGLISH PRONUNCIATION TOOLS ALPHABETICAL GLOSSARY OF LINGUISTIC TERMS ( https://pronunciationchecker.com/english-pronunciation-tools/glossary-linguistic-terms/linguistic-terminology.html )
+
+as a preliminary sources to be optimized by appropriately weighting each term according to the needs of their subsequent integrated alignment with the needs of ASMBLANG.
+The less useful a term or concept or idea the closer it's value is to 0.
+The more useful a term or concept or idea the closer it's value is to 1000.
+
+
+
+
+What is ASSEMBLANG ?;
+ASSEMBLANG IS A FORMAL SYSTEM.
+ASSEMBLANG IS A FORMAL LANGUAGE.
+ASSEMBLANG IS UNNUANCED.
+ASSEMBLANG REJECTS NUANCE AS FALSE.
+ASSEMBLANG WILL PROVIDE ALL USERS WITH THE MEANS TO MEAN WHAT THEY SAY AND TO SAY WHAT THEY MEAN UNAMBIGUOUSLY, HENCE ASSEMBLANG IS UNNUANCED.
+THE APPLICATION OF AND USE OF ASSEMBLANG REDUCES THE NEED FOR AND INSTANCES OF KANLY.
+ASSEMBLANG INCREASES COMMUNICATIVE COMPETENCE BY DESIGN.
+
+
+ASSEMBLANG BUG LIST = IF IT IS ON HERE THEN IT IS A BUG AND NOT A FEATURE;
+NUANCE
+PARADOX
+PRAGMATIC COMPETENCE
+HOMONYMS
+SLANG
+
+
+ASSEMBLANG SUSPECTED BUG LIST = MAY HAVE FEATURE QUALITYS MAY BE A BUG AND AS OF YET THESE ARE UNDETERMINED THOUGH THROUGH THE PROCEESS OF DEVELOPMENT ALL ENTRIES ON THE SUSPECTED BUG LIST WILL EVENTUALLY BE MOVED TO EITHER THE FEAURE LIST OR THE BUG LIST;
+TONE
+PRAGMATIC COMPETENCE
+TURING MACHINE
+
+
+
+
+
+DEFFINITIONS;
+
+
+LOGIC
+"Logic is the study of correct reasoning. It includes both formal and informal logic. Formal logic is the study of deductively valid inferences or logical truths. It examines how conclusions follow from premises based on the structure of arguments alone, independent of their topic and content. Informal logic is associated with informal fallacies, critical thinking, and argumentation theory. Informal logic examines arguments expressed in natural language whereas formal logic uses formal language. When used as a countable noun, the term "a logic" refers to a specific logical formal system that articulates a proof system. Logic plays a central role in many fields, such as philosophy, mathematics, computer science, and linguistics." 
+( https://en.wikipedia.org/wiki/Logic ) 
+
+
+COMMUNICATION
+"Communication is commonly defined as the transmission of information. Its precise definition is disputed and there are disagreements about whether unintentional or failed transmissions are included and whether communication not only transmits meaning but also creates it. Models of communication are simplified overviews of its main components and their interactions. Many models include the idea that a source uses a coding system to express information in the form of a message. The message is sent through a channel to a receiver who has to decode it to understand it. The main field of inquiry investigating communication is called communication studies."
+( https://en.wikipedia.org/wiki/Communication ) 
+
+
+UNIVERSAL LANGUAGE
+"Universal language may refer to a hypothetical or historical language spoken and understood by all or most of the world's people. In some contexts, it refers to a means of communication said to be understood by all humans. It may be the idea of an international auxiliary language for communication between groups speaking different primary languages. A similar concept can be found in pidgin language, which is actually used to facilitate understanding between two or more people with no common language. In other conceptions, it may be the primary language of all speakers, or the only existing language. Some religious and mythological traditions state that there was once a single universal language among all people, or shared by humans and supernatural beings."
+( https://en.wikipedia.org/wiki/Universal_language ) 
+
+
+
+INTERNATIONAL AUXILIARY LANGUAGE
+"An international auxiliary language[A] (sometimes acronymized as IAL or contracted as auxlang) is a language meant for communication between people from different nations who do not share a common first language. An auxiliary language is primarily a second language and often a constructed language. The concept is related to but separate from the idea of a lingua franca (or dominant language) that people must use to communicate. The study of international auxiliary languages is interlinguistics. " 
+( https://en.wikipedia.org/wiki/International_auxiliary_language )
+
+
+
+CONSTRUCTED LAGUAGE = CONLANG
+"A constructed language is a language for communication between humans (i.e. not with or between computers) but unlike most languages that naturally emerge from human interaction, is intentionally devised by a person or group for a particular purpose. The term constructed language is often shortened to conlang and, as a relatively broad term, it encompasses subcategories including: fictional, artificial, engineered, planned and invented languages. Conlangs may include aspects reminiscent of natural language including phonology, grammar, orthography, and vocabulary. Interlinguistics includes the study of constructed languages."
+( https://en.wikipedia.org/wiki/Constructed_language ) 
+
+
+
+E-PRIME
+"E-Prime (short for English-Prime or English Prime,[1] sometimes É or E′) denotes a restricted form of English in which authors avoid all forms of the verb to be.
+
+E-Prime excludes forms such as be, being, been, present tense forms (am, is, are), past tense forms (was, were) along with their negative contractions (isn't, aren't, wasn't, weren't), and nonstandard contractions such as ain't and 'twas. E-Prime also excludes contractions such as I'm, we're, you're, he's, she's, it's, they're, there's, here's, where's, when's, why's, how's, who's, what's, and that's.
+
+Some scholars claim that E-Prime can clarify thinking and strengthen writing,[2] while others doubt its utility."
+( https://en.wikipedia.org/wiki/E-Prime )
+
+
+
+SIMPLIFIED TECHNICAL ENGLISH
+"ASD-STE100 Simplified Technical English (STE) is a controlled natural language that is designed to simplify and clarify technical documentation. It was originally developed in the 1980s by the European Association of Aerospace Industries (AECMA) at the request of the European Airline industry, which wanted a standardized form of English for aircraft maintenance documentation that could be easily understood by non-native English-speakers.
+
+It has since been adopted in many other fields outside the aerospace, defense, and maintenance domains for its clear, consistent, and comprehensive nature. The current edition of the STE Standard, which was published in January 2025, consists of 53 writing rules and a dictionary of approximately 900 approved words. "
+ ( https://en.wikipedia.org/wiki/Simplified_Technical_English )
+
+
+
+MUSICAL LANGUAGES
+"Musical languages are constructed languages based on musical sounds, which tend to incorporate articulation. Whistled languages are dependent on an underlying spoken languages and are used in various cultures as a means for communication over distance, or as secret codes. The mystical concept of a language of the birds tries to connect the two categories, since some authors[who?] of musical a priori languages have speculated about a mystical or primeval origin of the whistled languages." 
+( https://en.wikipedia.org/wiki/Musical_language )
+
+
+
+SOLRESOL
+"Solresol (Solfège: Sol-Re-Sol), originally called Langue universelle (lit. 'Universal language') and then Langue musicale universelle ('Universal musical language'), is a musical constructed language devised by French music teacher and composer Jean-François Sudre (1787–1862), beginning in 1817. His book defining it, Langue Musicale Universelle, was published posthumously in 1866,[1] though he had already been publicizing it for some years. Solresol enjoyed a brief spell of popularity in the latter half of the 19th century and was sponsored by such figures as Victor Hugo, Alphonse de Lamartine, Alexander von Humboldt and Napoleon III,[2] culminating with Boleslas Gajewski's publication of Grammaire du Solresol in 1902. Today, there exist small communities of Solresol enthusiasts scattered across the world." 
+( https://en.wikipedia.org/wiki/Solresol )
+
+
+
+TONE
+"Tone is the use of pitch in language to distinguish lexical or grammatical meaning—that is, to distinguish or to inflect words.[1] All oral languages use pitch to express emotional and other para-linguistic information and to convey emphasis, contrast and other such features in what is called intonation, but not all languages use tones to distinguish words or their inflections, analogously to consonants and vowels. Languages that have this feature are called tonal languages; the distinctive tone patterns of such a language are sometimes called tonemes,[2] by analogy with phoneme. Tonal languages are common in East and Southeast Asia, Africa, the Americas, and the Pacific.[1]
+ Tonal languages are different from pitch-accent languages in that tonal languages can have each syllable with an independent tone whilst pitch-accent languages may have one syllable in a word or morpheme that is more prominent than the others. " 
+( https://en.wikipedia.org/wiki/Tone_(linguistics) )
+
+
+
+DVORAK KEYBOARD LAYOUT
+"Dvorak (/ˈdvɔːræk/ ⓘ)[1] is a keyboard layout for Latin-script alphabets patented in 1936 by August Dvorak and his brother-in-law, William Dealey, as a faster and more ergonomic alternative for typing English, compared to the 1874 QWERTY layout (the de facto standard keyboard layout). Dvorak proponents claim that it requires less finger motion[2] and as a result reduces errors, increases typing speed, reduces repetitive strain injuries,[3] or is simply more comfortable than QWERTY.[4][5][6]
+  Dvorak has failed to replace QWERTY as the most common keyboard layout, with the most pointed-to reasons being that QWERTY was popularized 60 years prior to Dvorak's creation, and that Dvorak's advantages are debated and relatively small.[7][8] However, most major modern operating systems (such as Windows,[9] macOS, Linux, iOS, Android, ChromeOS, and BSD) allow a user to switch to the Dvorak layout. The layout can be chosen for use with any hardware keyboard, regardless of any characters printed on the key caps.
+  Several modifications were designed by the team directed by Dvorak or by ANSI. These variations have been collectively or individually termed the Dvorak Simplified Keyboard, the American Simplified Keyboard, or simply the Simplified Keyboard, but they all have come to be known commonly as the Dvorak keyboard or Dvorak layout."
+( https://en.wikipedia.org/wiki/Dvorak_keyboard_layout ) 
+
+
+
+
+MODAL LOGIC "Modal logic is a class of formal systems that represent statements about necessity and possibility. It extends propositional or first-order logic with operators expressing modality—the mode or mood of a statement. For instance, 'it is possible that' and 'it is necessary that' are modal operators." 
+( https://en.wikipedia.org/wiki/Modal_logic )
+
+
+
+UNDECIDABLE PROBLEM "In computability theory and computational complexity theory, an undecidable problem is a decision problem for which it is proved to be impossible to construct an algorithm that always leads to a correct yes-or-no answer. A famous example is the halting problem, which asks whether a given program will eventually stop or run forever." 
+( https://en.wikipedia.org/wiki/Undecidable_problem )
+
+
+
+BEGRIFFSSCHRIFT "Begriffsschrift (German for, roughly, 'concept-script') is a book on logic by Gottlob Frege, published in 1879, and the name of the formal system defined in that book. Begriffsschrift is usually considered the most important publication in logic since Aristotle founded the subject." ( https://en.wikipedia.org/wiki/Begriffsschrift )
+GAUSS NOTATION "Gauss notation (or Gauss's notation) refers to various mathematical notations introduced by Carl Friedrich Gauss, most notably used in the context of hypergeometric functions, or for representing the terms of a series or product, often denoted by specific symbols such as the bracket notation for the floor function in historical texts." 
+( https://en.wikipedia.org/wiki/Gauss_notation )
+
+
+
+CHARACTERISTICA UNIVERSALIS "The characteristica universalis, commonly interpreted as universal characteristic, or universal character in English, is a theoretical universal and formal language imagined by Gottfried Leibniz able to express mathematical, scientific, and metaphysical concepts. Leibniz hoped to create a language that could be used within a universal logical calculus or calculus ratiocinator." 
+( https://en.wikipedia.org/wiki/Characteristica_universalis )
+
+
+
+SEMANTICS (LOGIC) "In logic, semantics is the study of the interpretations of formal languages. A formal language can be defined without any regard to any interpretation of it. To provide an interpretation of a formal language is essentially to provide a meaning to its symbols, which determines the truth values of its sentences." 
+( https://en.wikipedia.org/wiki/Semantics_(logic) )
+
+
+
+CLASSICAL MODAL LOGIC "A classical modal logic is a modal logic that contains the duality of the modal operators (usually □ and ◊) and is closed under the rule of equivalence. These systems are significant in the study of algebraic semantics and provide a framework for many well-known modal logics." 
+( https://en.wikipedia.org/wiki/Classical_modal_logic )
+
+
+
+DE MORGAN'S LAWS "In propositional logic and boolean algebra, De Morgan's laws are a pair of transformation rules that are both valid rules of inference. They are named after Augustus De Morgan, a 19th-century British mathematician. The rules allow the expression of conjunctions and disjunctions purely in terms of each other via negation." ( https://en.wikipedia.org/wiki/De_Morgan%27s_laws )
+MODAL LOGIC EXTENSIONS "Extensions of modal logic refer to the various systems and rules of inference that add axioms or operators to standard modal logic. These extensions allow the logic to capture specialized concepts such as time (temporal logic), knowledge (epistemic logic), or moral obligation (deontic logic)." 
+( https://en.wikipedia.org/wiki/Modal_logic#Extensions )
+
+
+
+METHOD OF ANALYTIC TABLEAUX "In proof theory, the method of analytic tableaux (or semantic tableau) is a decision procedure for proving the validity of formulas in various logics. It works by attempting to find a counterexample that makes the formula false; if no such counterexample can be found, the formula is proven valid." ( https://en.wikipedia.org/wiki/Method_of_analytic_tableaux )
+SEQUENT CALCULUS "In proof theory and mathematical logic, sequent calculus is a family of formal systems for deriving theorems of various logics. The first such systems, LK and LJ, were introduced in 1934 by Gerhard Gentzen as a tool for studying natural deduction and proving the consistency of arithmetic." 
+( https://en.wikipedia.org/wiki/Sequent_calculus )
+
+
+
+STRUCTURAL PROOF THEORY "Structural proof theory is the subfield of proof theory that studies the properties of individual proofs and proof systems. It focuses on the structures of the derivations themselves, such as the relationship between different proof systems like sequent calculus and natural deduction." 
+( https://en.wikipedia.org/wiki/Structural_proof_theory )
+
+
+
+DEONTIC LOGIC "Deontic logic is the field of philosophical logic that is concerned with obligation, permission, and related concepts. Deontic logic is used to formalize the logical structure of normative statements, such as 'It is obligatory that p' or 'It is permissible that p'." 
+( https://en.wikipedia.org/wiki/Deontic_logic )
+
+
+
+NORMAL MODAL LOGIC "In logic, a normal modal logic is a set of modal formulas that contains the Kripke axiom K and is closed under the rule of necessitation. Most modal logics discussed in philosophy and computer science, such as S4 and S5, are normal modal logics." 
+( https://en.wikipedia.org/wiki/Normal_modal_logic )
+
+
+
+
+PROPOSITIONAL LOGIC "Propositional logic is a branch of logic. It is also called propositional calculus, statement logic, sentential calculus, sentential logic, or sometimes zeroth-order logic. It deals with propositions (which can be true or false) and relations between propositions, including the construction of compound propositions using logical connectives." 
+( https://en.wikipedia.org/wiki/Propositional_logic )
+
+
+
+ATOMIC FORMULA "In mathematical logic, an atomic formula (also known simply as an atom) is a formula with no deeper propositional structure, i.e., a formula that contains no logical connectives or equivalently a formula that has no strict subformulas. Atoms are thus the simplest well-formed formulas of a logic." 
+( https://en.wikipedia.org/wiki/Atomic_formula )
+
+
+
+SIMPLIFIED TECHNICAL ENGLISH
+"ASD-STE100 Simplified Technical English (STE) is a controlled natural language that is designed to
+simplify and clarify technical documentation. It was originally developed in the 1980s by the European
+SuperGrok
+Premium
+Lists
+Association of Aerospace Industries (AECMA) at the request of the European Airline industry, which
+wanted a standardized form of English for aircraft maintenance documentation that could be easily
+understood by non-native English-speakers. It has since been adopted in many other fields outside the
+aerospace, defense, and maintenance domains for its clear, consistent, and comprehensive nature. The
+current edition of the STE Standard, which was published in January 2025, consists of 53 writing rules and
+Bookmarksa dictionary of approximately 900 approved words."
+CommunitiesE-PRIME
+Profile
+More
+Post
+( https://en.wikipedia.org/wiki/Simplified_Technical_English#History )
+"E-Prime (short for English-Prime or English Prime, sometimes É or E′) denotes a restricted form of English
+in which authors avoid all forms of the verb to be. E-Prime excludes forms such as be, being, been, present
+tense forms (am, is, are), past tense forms (was, were) along with their negative contractions (isn't, aren't,
+wasn't, weren't), and nonstandard contractions such as ain't and 'twas. E-Prime also excludes
+contractions such as I'm, we're, you're, he's, she's, it's, they're, there's, here's, where's, when's, why's,
+how's, who's, what's, and that's. Some scholars claim that E-Prime can clarify thinking and strengthen
+writing, while others doubt its utility."
+( https://en.wikipedia.org/wiki/E-Prime )
+CONSTRUCTED LANGUAGE
+"A constructed language is a language for communication between humans (i.e. not with or between
+computers) but unlike most languages that naturally emerge from human interaction, is intentionally
+devised by a person or group for a particular purpose. The term constructed language is often shortened to
+conlang and, as a relatively broad term, it encompasses subcategories including: fictional, artificial,
+engineered, planned and invented languages. Conlangs may include aspects reminiscent of natural
+language including phonology, grammar, orthography, and vocabulary. Interlinguistics includes the study of
+constructed languages."
+( https://en.wikipedia.org/wiki/Constructed_language )
+LINGUA IGNOTA
+"A lingua ignota (Latin for 'unknown language') was described by the 12th-century abbess Hildegard of
+Bingen, who apparently used it for mystical purposes. It consists of vocabulary with no known grammar;
+the only known text is individual words embedded in Latin. To write it, Hildegard used an alphabet of 23
+letters denominated litterae ignotae (Latin for 'unknown letters')."
+( https://en.wikipedia.org/wiki/Lingua_ignota )
+UNIVERSAL LANGUAGE
+"Universal language may refer to a hypothetical or historical language spoken and understood by all or
+most of the world's people. In some contexts, it refers to a means of communication said to be understood
+by all humans. It may be the idea of an international auxiliary language for communication between groups
+speaking different primary languages. A similar concept can be found in pidgin language, which is actually
+used to facilitate understanding between two or more people with no common language. In other
+conceptions, it may be the primary language of all speakers, or the only existing language. Some religious
+and mythological traditions state that there was once a single universal language among all people, or
+shared by humans and supernatural beings."
+( https://en.wikipedia.org/wiki/Universal_language )
+INTERNATIONAL AUXILIARY LANGUAGE
+"An international auxiliary language (sometimes acronymized as IAL or contracted as auxlang) is a
+language meant for communication between people from different nations who do not share a common
+first language. An auxiliary language is primarily a second language and often a constructed language. The
+concept is related to but separate from the idea of a lingua franca (or dominant language) that people must
+use to communicate. The study of international auxiliary languages is interlinguistics. The term 'auxiliary'
+implies that it is intended to be an additional language for communication between the people of the
+world, rather than to replace their native languages. Often, the term is used specifically to refer to planned
+or constructed languages proposed to ease international communication, such as Esperanto, Ido and
+Interlingua. It usually takes words from widely spoken languages. However, it can also refer to the concept
+of such a language being determined by international consensus, including even a standardized natural
+language (e.g., International English), and has also been connected to the project of constructing a
+universal language."
+( https://en.wikipedia.org/wiki/International_auxiliary_language#Scholarly_study )
+ESPERANTO
+"Esperanto (/ˌɛs.pəˈrɑːn.toʊ, -ˈræn.toʊ/) is the world's most widely spoken constructed auxiliary language.
+Created by L. L. Zamenhof in 1887 as 'the International Language' (la Lingvo Internacia), it is intended to be
+a universal second language for international communication. He described the language in Dr. Esperanto's
+International Language (known as Unua Libro, the 'first book'), which he published under the pseudonym
+Doktoro Esperanto. Early adopters of the language liked the name Esperanto and soon used it to describe
+his language. The word translates into English as 'one who hopes'. Within the range of constructed
+languages, Esperanto occupies a middle ground between 'naturalistic' (imitating existing natural
+languages) and a priori (where features are not based on existing languages). Esperanto's vocabulary,
+Dr. Goldoval
+�DoctorGo�dOva�
+syntax and semantics derive predominantly from languages of the Indo-European group. A substantial
+majority of its vocabulary (approximately 80%) derives from Romance languages, but it also containsHome
+Esperanto is the most successful constructed international auxiliary language, and the only such language
+with a sizeable population of native speakers (denaskuloj), of which there are an estimated 2,000. Usage
+Explore
+Notifications
+1
+Chat
+estimates are difficult, but two estimates put the number of people who know how to speak Esperanto at
+around 100,000. Concentration of speakers is highest in Europe, East Asia, and South America. Although
+no country has adopted Esperanto officially, Esperantujo ('Esperanto land') is used as a name for the
+collection of places where it is spoken. The language has also gained a noticeable presence on the
+Internet. It is becoming increasingly accessible on platforms such as Wikipedia, Amikumu, Google
+SuperGrokTranslate and Duolingo. Esperanto speakers are often called Esperantists (Esperantistoj). A number of
+Premiumin the 19th and 20th centuries as the most major international auxiliary language, as many previous
+reforms, known as Esperantidos, have been proposed over the years. Esperanto largely replaced Volapük
+Volapükists switched to Esperanto due to its much simpler language structure."
+Lists
+Bookmarks
+( https://en.wikipedia.org/wiki/Esperanto )
+SOLRESOL
+"Solresol (Solfège: Sol-Re-Sol), originally called Langue universelle (lit. 'Universal language') and then
+CommunitiesLangue musicale universelle ('Universal musical language'), is a musical constructed language devised by
+Profileit, Langue Musicale Universelle, was published posthumously in 1866, though he had already been
+French music teacher and composer Jean-François Sudre (1787–1862), beginning in 1817. His book defining
+publicizing it for some years. Solresol enjoyed a brief spell of popularity in the latter half of the 19th century
+More
+and was sponsored by such figures as Victor Hugo, Alphonse de Lamartine, Alexander von Humboldt and
+Napoleon III, culminating with Boleslas Gajewski's publication of Grammaire du Solresol in 1902. Today,
+Post
+there exist small communities of Solresol enthusiasts scattered across the world."
+( https://en.wikipedia.org/wiki/Solresol#See_also )
+HONORIFIC
+"An honorific is a title that conveys esteem, courtesy, or respect for position or rank when used in
+addressing or referring to a person. Sometimes, the term 'honorific' is used in a more specific sense to
+refer to an honorary academic title. It is also often conflated with systems of honorific speech in
+linguistics, which are grammatical or morphological ways of encoding the relative social status of
+speakers. Honorifics can be used as prefixes or suffixes depending on the appropriate occasion and
+presentation in accordance with style and customs."
+( https://en.wikipedia.org/wiki/Honorific )
+MUSICAL LANGUAGE
+"Musical languages are constructed languages based on musical sounds, which tend to incorporate
+articulation. Whistled languages are dependent on an underlying spoken languages and are used in various
+cultures as a means for communication over distance, or as secret codes. The mystical concept of a
+language of the birds tries to connect the two categories, since some authors of musical a priori languages
+have speculated about a mystical or primeval origin of the whistled languages."
+( https://en.wikipedia.org/wiki/Musical_language )
+UNNUANCED
+"unnuanced (not comparable) 1. Not nuanced. 2007 April 30, Adam Nagourney, “California Democrats
+Cheer Talk They Sought 4 Years Ago”, in New York Times: The sentiment of Democrats in this hall was clear
+from the moment the convention opened Friday through Sunday morning, when Representative Maxine
+Waters, Democrat of California, led the crowd in a chant reflecting a decidedly unnuanced view of what
+the United States should do in Iraq: “Not another nickel, not another dime, not another soldier, not this
+time.”"
+( https://en.wiktionary.org/wiki/unnuanced#English )
+NUANCE COMMUNICATIONS
+"Nuance Communications, Inc. is an American multinational computer software technology corporation,
+headquartered in Burlington, Massachusetts, that markets speech recognition and artificial intelligence
+software."
+( https://en.wikipedia.org/wiki/Nuance_Communications )
+COMMUNICATION
+"There are many forms of communication, including human linguistic communication using sounds, sign
+language, and writing as well as animals exchanging information and attempts to communicate with
+intelligent extraterrestrial life. Communication is commonly defined as the transmission of information. Its
+precise definition is disputed and there are disagreements about whether unintentional or failed
+transmissions are included and whether communication not only transmits meaning but also creates it.
+Models of communication are simplified overviews of its main components and their interactions. Many
+models include the idea that a source uses a coding system to express information in the form of a
+message. The message is sent through a channel to a receiver who has to decode it to understand it. The
+main field of inquiry investigating communication is called communication studies."
+( https://en.wikipedia.org/wiki/Communication )
+SEMANTICS
+"Semantics is the study of linguistic meaning. It examines what meaning is, how words get their meaning,
+and how the meaning of a complex expression depends on its parts. Part of this process involves the
+distinction between sense and reference. Sense is given by the ideas and concepts associated with an
+expression while reference is the object to which an expression points. Semantics contrasts with syntax,
+which studies the rules that dictate how to create grammatically correct sentences, and pragmatics, which
+investigates how people use language in communication. Semantics, together with syntactics and
+pragmatics, is a part of semiotics."
+( https://en.wikipedia.org/wiki/Semantics )
+COMMUNICATIVE COMPETENCE
+Dr. Goldoval
+�DoctorGo�dOva�
+"The concept of communicative competence, as developed in linguistics, originated in response to
+perceived inadequacy of the notion of linguistic competence. That is, communicative competenceHome
+Explore
+1
+competence. The understanding of communicative competence has been influenced by the field of
+pragmatics and the philosophy of language, including work on speech acts."
+( https://en.wikipedia.org/wiki/Communicative_competence )
+NotificationsIMPLICATURE
+Chatwith an utterance, even though it is not literally expressed. Implicatures can aid in communicating more
+"In pragmatics, a subdiscipline of linguistics, an implicature is something the speaker suggests or implies
+efficiently than by explicitly saying everything we want to communicate. The philosopher H. P. Grice coined
+SuperGrok
+Premium
+Lists
+Bookmarks
+Communities
+the term in 1975. Grice distinguished conversational implicatures, which arise because speakers are
+expected to respect general rules of conversation, and conventional ones, which are tied to certain words
+such as but or therefore. Take for example the following exchange: A (to passerby): I am out of gas. B: There
+is a gas station 'round the corner. Here, B does not say, but conversationally implicates, that the gas
+station is open, because otherwise his utterance would not be relevant in the context. Conversational
+implicatures are classically seen as contrasting with entailments: they are not necessary or logical
+consequences of what is said, but are defeasible (cancellable). So, B could continue without contradiction:
+B: But unfortunately it's closed today. An example of a conventional implicature is 'Donovan is poor but
+happy', where the word but implicates a sense of contrast between being poor and being happy. Later
+Profile
+linguists introduced and refined different definitions of the term, leading to somewhat different ideas
+about which parts of the information conveyed by an utterance are actually implicatures and which are
+More
+not."
+( https://en.wikipedia.org/wiki/Implicature )
+Post
+MOORE'S PARADOX
+"Moore's paradox concerns the apparent absurdity involved in asserting a first-person present-tense
+sentence such as 'It is raining, but I do not believe that it is raining' or 'It is raining, but I believe that it is not
+raining.' The first author to note this apparent absurdity was George E. Moore. These 'Moorean' sentences,
+as they have become known, are paradoxical in that while they appear absurd, they nevertheless 1. Can be
+true; 2. Are (logically) consistent; and 3. Are not (obviously) contradictions. The term 'Moore's paradox' is
+attributed to Ludwig Wittgenstein, who considered the paradox Moore's most important contribution to
+philosophy. Wittgenstein wrote about the paradox extensively in his later writings, which brought Moore's
+paradox the attention it would not have otherwise received."
+( https://en.wikipedia.org/wiki/Moore%27s_paradox )
+SCALAR IMPLICATURE
+"In pragmatics, scalar implicature, or quantity implicature, is an implicature that attributes an implicit
+meaning beyond the explicit or literal meaning of an utterance, and which suggests that the utterer had a
+reason for not using a more informative or stronger term on the same scale. The choice of the weaker
+characterization suggests that, as far as the speaker knows, none of the stronger characterizations in the
+scale holds. This is commonly seen in the use of 'some' to suggest the meaning 'not all', even though 'some'
+does not necessarily preclude 'all'. If Bill says 'I have some of my money in cash', this utterance suggests to
+a hearer (though the sentence uttered does not logically imply it) that Bill does not have all his money in
+cash."
+( https://en.wikipedia.org/wiki/Scalar_implicature )
+WHISTLED LANGUAGE
+"Whistled speech is a form of speech surrogacy in which whistling is used to mimic speech. Speakers of
+more than 80 languages have been found to practice various degrees of whistled speech, most of them in
+rugged topography or dense forests, where movement to carry messages is challenging, and whistling
+expands the distance of communication. The practice is generally threatened by increased modernization
+and faster roads, but successful conservation efforts are recorded."
+( https://en.wikipedia.org/wiki/Whistled_language )
+FORMAL SYSTEM
+"A formal system (or deductive system) is an abstract structure and formalization of an axiomatic system
+used for deducing, using rules of inference, theorems from axioms. In 1921, David Hilbert proposed to use
+formal systems as the foundation of knowledge in mathematics. However, in 1931 Kurt Gödel proved that
+any consistent formal system sufficiently powerful to express basic arithmetic cannot prove its own
+completeness. This effectively showed that Hilbert's program was impossible as stated. The term
+formalism is sometimes a rough synonym for formal system, but it also refers to a given style of notation,
+for example, Paul Dirac's bra–ket notation."
+( https://en.wikipedia.org/wiki/Formal_system )
+SYNTAX (LOGIC)
+"In logic, syntax is an arrangement of well-structured entities in the formal languages or formal systems
+that express something. Syntax is concerned with the rules used for constructing or transforming the
+symbols and words of a language, as contrasted with the semantics of a language, which is concerned
+with its meaning. The symbols, formulas, systems, theorems and proofs expressed in formal languages are
+syntactic entities whose properties may be studied without regard to any meaning they may be given, and,
+in fact, need not be given any. Syntax is usually associated with the rules (or grammar) governing the
+composition of texts in a formal language that constitute the well-formed formulas of a formal system. In
+computer science, the term syntax refers to the rules governing the composition of well-formed
+expressions in a programming language. As in mathematical logic, it is independent of semantics and
+interpretation."
+( https://en.wikipedia.org/wiki/Syntax_(logic) )
+FORMAL GRAMMAR
+"A formal grammar is a set of symbols and the production rules for rewriting some of them into every
+possible string of a formal language over an alphabet. A grammar does not describe the meaning of the
+Dr. Goldoval
+�DoctorGo�dOva�
+strings — only their form. In applied mathematics, formal language theory is the discipline that studies
+formal grammars and languages. Its applications are found in theoretical computer science, theoreticalHome
+'recognizer'—a function in computing that determines whether a given string belongs to the language or is
+grammatically incorrect. To describe such recognizers, formal language theory uses separate formalisms,
+Explore
+Notifications
+1
+Chat
+known as automata theory. One of the interesting results of automata theory is that it is not possible to
+design a recognizer for certain formal languages. Parsing is the process of recognizing an utterance (a
+string in natural languages) by breaking it down to a set of symbols and analyzing each one against the
+grammar of the language. Most languages have the meanings of their utterances structured according to
+their syntax—a practice known as compositional semantics. As a result, the first step to describing the
+SuperGrokmeaning of an utterance in language is to break it down part by part and look at its analyzed form (known
+Premium( https://en.wikipedia.org/wiki/Formal_grammar )
+Lists
+Bookmarks
+as its parse tree in computer science, and as its deep structure in generative grammar)."
+LOGICAL FORM
+"In logic, the logical form of a statement is a precisely specified semantic version of that statement in a
+formal system. Informally, the logical form attempts to formalize a possibly ambiguous statement into a
+statement with a precise, unambiguous logical interpretation with respect to a formal system. In an ideal
+Communitiesformal language, the meaning of a logical form can be determined unambiguously from syntax alone.
+Profilerepresents the same logical form in a given language."
+Logical forms are semantic, not syntactic constructs; therefore, there may be more than one string that
+( https://en.wikipedia.org/wiki/Logical_form )
+More
+AXIOM SCHEMA
+"In mathematical logic, an axiom schema (plural: axiom schemata or axiom schemas) generalizes the
+Post
+notion of axiom."
+( https://en.wikipedia.org/wiki/Axiom_schema )
+RULE OF INFERENCE
+"Rules of inference are ways of deriving conclusions from premises. They are integral parts of formal logic,
+serving as norms of the logical structure of valid arguments. If an argument with true premises follows a
+rule of inference then the conclusion cannot be false. Modus ponens, an influential rule of inference,
+connects two premises of the form 'if P then Q' and 'P' to the conclusion 'Q', as in the argument 'If it rains,
+then the ground is wet. It rains. Therefore, the ground is wet.' There are many other rules of inference for
+different patterns of valid arguments, such as modus tollens, disjunctive syllogism, constructive dilemma,
+and existential generalization."
+( https://en.wikipedia.org/wiki/Rule_of_inference )
+FORMAL PROOF
+"In logic and mathematics, a formal proof or derivation is a finite sequence of sentences (known as well-
+formed formulas when relating to formal language), each of which is an axiom, an assumption, or follows
+from the preceding sentences in the sequence, according to the rule of inference. It differs from a natural
+language argument in that it is rigorous, unambiguous and mechanically verifiable. If the set of
+assumptions is empty, then the last sentence in a formal proof is called a theorem of the formal system.
+The notion of theorem is generally effective, but there may be no method by which we can reliably find
+proof of a given sentence or determine that none exists. The concepts of Fitch-style proof, sequent
+calculus and natural deduction are generalizations of the concept of proof. The theorem is a syntactic
+consequence of all the well-formed formulas preceding it in the proof. For a well-formed formula to qualify
+as part of a proof, it must be the result of applying a rule of the deductive apparatus (of some formal
+system) to the previous well-formed formulas in the proof sequence. Formal proofs often are constructed
+with the help of computers in interactive theorem proving (e.g., through the use of proof checker and
+automated theorem prover). Significantly, these proofs can be checked automatically, also by computer.
+Checking formal proofs is usually simple, while the problem of finding proofs (automated theorem proving)
+is usually computationally intractable and/or only semi-decidable, depending upon the formal system in
+use."
+( https://en.wikipedia.org/wiki/Formal_proof )
+PROOF CALCULUS
+"In mathematical logic, a proof calculus or a proof system is built to prove statements."
+( https://en.wikipedia.org/wiki/Proof_calculus )
+DECIDABILITY (LOGIC)
+"In logic, a true/false decision problem is decidable if there exists an effective method for deriving the
+correct answer. Logical systems are decidable if membership in their set of logically valid formulas (or
+theorems) can be effectively determined. Zeroth-order logic (propositional logic) is decidable, whereas
+first-order and higher-order logic are not. A theory (set of sentences closed under logical consequence) in
+a fixed logical system is decidable if there is an effective method for determining whether arbitrary
+formulas are included in the theory. Many important problems are undecidable, that is, it has been proven
+that no effective method for determining membership (returning a correct answer after finite, though
+possibly very long, time in all cases) can exist for them."
+( https://en.wikipedia.org/wiki/Decidability_(logic) )
+METALANGUAGE
+"In logic and linguistics, a metalanguage is a language used to describe another language, often called the
+object language. Expressions in a metalanguage are often distinguished from those in the object language
+by the use of italics, quotation marks, or writing on a separate line. The structure of sentences and phrases
+in a metalanguage can be described by a metasyntax. For example, to say that the word 'noun' can be used
+as a noun in a sentence, one could write 'noun' is a <noun>."
+( https://en.wikipedia.org/wiki/Metalanguage )
+MATHEMATICAL LOGIC
+"Mathematical logic is the study of formal logic within mathematics. Major subareas include model theory,
+Dr. Goldoval
+�DoctorGo�dOva�
+proof theory, set theory, and recursion theory (also known as computability theory). Research in
+mathematical logic commonly addresses the mathematical properties of formal systems of logic such asHome
+Explore
+1
+GÖDEL'S INCOMPLETENESS THEOREMS
+"Gödel's incompleteness theorems are two theorems of mathematical logic that are concerned with the
+limits of provability in formal axiomatic theories. These results, published by Kurt Gödel in 1931, are
+Notificationsimportant both in mathematical logic and in the philosophy of mathematics. The theorems are interpreted
+Chatimpossible."
+as showing that Hilbert's program to find a complete and consistent set of axioms for all mathematics is
+( https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems )
+SuperGrok
+Premium
+GÖDEL'S COMPLETENESS THEOREM
+"Gödel's completeness theorem is a fundamental theorem in mathematical logic that establishes a
+correspondence between semantic truth and syntactic provability in first-order logic. The completeness
+Liststheorem applies to any first-order theory: If T is such a theory, and φ is a sentence (in the same language)
+Bookmarksaxioms. One sometimes says this as 'anything true in all models is provable'. (This does not contradict
+and every model of T is a model of φ, then there is a (first-order) proof of φ using the statements of T as
+Gödel's incompleteness theorem, which is about a formula φu that is unprovable in a certain theory T but
+Communities
+true in the 'standard' model of the natural numbers: φu is false in some other, 'non-standard' models of T.)
+The completeness theorem makes a close link between model theory, which deals with what is true in
+Profile
+More
+different models, and proof theory, which studies what can be formally proven in particular formal
+systems. It was first proved by Kurt Gödel in 1929. It was then simplified when Leon Henkin observed in his
+Ph.D. thesis that the hard part of the proof can be presented as the Model Existence Theorem (published
+in 1949). Henkin's proof was simplified by Gisbert Hasenjaeger in 1953."
+Post
+( https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem )
+COMPACTNESS THEOREM
+"In mathematical logic, the compactness theorem states that a set of first-order sentences has a model if
+and only if every finite subset of it has a model. This theorem is an important tool in model theory, as it
+provides a useful (but generally not effective) method for constructing models of any set of sentences that
+is finitely consistent."
+( https://en.wikipedia.org/wiki/Compactness_theorem )
+MODEL THEORY
+"In mathematical logic, model theory is the study of the relationship between formal theories (a collection
+of sentences in a formal language expressing statements about a mathematical structure), and their
+models (those structures in which the statements of the theory hold). The aspects investigated include the
+number and size of models of a theory, the relationship of different models to each other, and their
+interaction with the formal language itself. In particular, model theorists also investigate the sets that can
+be defined in a model of a theory, and the relationship of such definable sets to each other."
+( https://en.wikipedia.org/wiki/Model_theory )
+COMPUTABLY ENUMERABLE SET
+"In computability theory, a set S of natural numbers is called computably enumerable (c.e.), recursively
+enumerable (r.e.), semidecidable, partially decidable, listable, provable or Turing-recognizable if: There is
+an algorithm such that the set of input numbers for which the algorithm halts is exactly S. Or, equivalently,
+There is an algorithm that enumerates the members of S. That means that its output is a list of all the
+members of S: s1, s2, s3, .... If S is infinite, this algorithm will run forever, but each element of S will be
+returned after a finite amount of time. Note that these elements do not have to be listed in a particular
+way, say from smallest to largest. The first condition suggests why the term semidecidable is sometimes
+used. More precisely, if a number is in the set, one can decide this by running the algorithm, but if the
+number is not in the set, the algorithm can run forever, and no information is returned. A set that is
+'completely decidable' is a computable set. The second condition suggests why computably enumerable is
+used. The abbreviations c.e. and r.e. are often used, even in print, instead of the full phrase."
+( https://en.wikipedia.org/wiki/Computably_enumerable_set )
+REVERSE MATHEMATICS
+"Reverse mathematics is a program in mathematical logic that seeks to determine which axioms are
+required to prove theorems of mathematics. Its defining method can briefly be described as 'going
+backwards from the theorems to the axioms', in contrast to the ordinary mathematical practice of deriving
+theorems from axioms. It can be conceptualized as sculpting out necessary conditions from sufficient
+ones."
+( https://en.wikipedia.org/wiki/Reverse_mathematics )
+WORD PROBLEM FOR GROUPS
+"In mathematics, especially in the area of abstract algebra known as combinatorial group theory, the word
+problem for a finitely generated group G is the algorithmic problem of deciding whether two words in the
+generators represent the same element of G. The word problems for certain groups provide well-known
+examples of undecidable problems. If A is a finite set of generators for G, then the word problem is the
+membership problem for the formal language of all words in A and a formal set of inverses that map to the
+identity under the natural map from the free monoid with involution on A to the group G. If B is another
+finite generating set for G, then the word problem over the generating set B is equivalent to the word
+problem over the generating set A. Thus one can speak unambiguously of the decidability of the word
+problem for the finitely generated group G. The related but different uniform word problem for a class K of
+recursively presented groups is the algorithmic problem of deciding, given as input a presentation P for a
+group G in the class K and two words in the generators of G, whether the words represent the same
+element of G. Some authors require the class K to be definable by a recursively enumerable set of
+presentations."
+( https://en.wikipedia.org/wiki/Word_problem_for_groups )
+PROOF MINING
+Dr. Goldoval
+�DoctorGo�dOva�
+"In proof theory, a branch of mathematical logic, proof mining (or proof unwinding) is a research program
+that studies or analyzes formalized proofs, especially in analysis, to obtain explicit bounds, ranges or ratesHome
+ORDINAL ANALYSIS
+Explore"In proof theory, ordinal analysis assigns ordinals (often large countable ordinals) to mathematical theories
+Notificationsequiconsistent, and if one theory has a larger proof-theoretic ordinal than another it can often prove the
+as a measure of their strength. If theories have the same proof-theoretic ordinal they are often
+consistency of the second theory. In addition to obtaining the proof-theoretic ordinal of a theory, in
+1
+Chat
+practice ordinal analysis usually also yields various other pieces of information about the theory being
+analyzed, for example characterizations of the classes of provably recursive, hyperarithmetical, or Δ21
+SuperGrok
+Premium
+Lists
+functions of the theory."
+( https://en.wikipedia.org/wiki/Ordinal_analysis )
+INTUITIONISTIC LOGIC
+"Intuitionistic logic, sometimes more generally called constructive logic, refers to systems of symbolic logic
+that differ from the systems used for classical logic by more closely mirroring the notion of constructive
+Bookmarks
+proof. In particular, systems of intuitionistic logic do not assume the law of excluded middle and double
+negation elimination, which are fundamental inference rules in classical logic. Formalized intuitionistic
+Communities
+Profile
+More
+Post
+logic was originally developed by Arend Heyting to provide a formal basis for L. E. J. Brouwer's programme
+of intuitionism. From a proof-theoretic perspective, Heyting’s calculus is a restriction of classical logic in
+which the law of excluded middle and double negation elimination have been removed. Excluded middle
+and double negation elimination can still be proved for some propositions on a case by case basis,
+however, but do not hold universally as they do with classical logic. The standard explanation of
+intuitionistic logic is the BHK interpretation."
+( https://en.wikipedia.org/wiki/Intuitionistic_logic )
+LAW OF EXCLUDED MIDDLE
+"In logic, the law of excluded middle or the principle of excluded middle states that for every proposition,
+either this proposition or its negation is true. Symbolically expressed, the law is (p ∨ ~p)."
+( https://en.wikipedia.org/wiki/Law_of_excluded_middle )
+KNOWLEDGE REPRESENTATION AND REASONING
+"Knowledge representation (KR) aims to model information in a structured manner to formally represent it
+as knowledge in knowledge-based systems whereas knowledge representation and reasoning (KRR,
+KR&R, or KR2) also aims to understand, reason, and interpret knowledge. KRR is widely used in the field of
+artificial intelligence (AI) with the goal to represent information about the world in a form that a computer
+system can use to solve complex tasks, such as diagnosing a medical condition or having a natural-
+language dialog. KR incorporates findings from psychology about how humans solve problems and
+represent knowledge, in order to design formalisms that make complex systems easier to design and build.
+KRR also incorporates findings from logic to automate various kinds of reasoning. Traditional KRR focuses
+more on the declarative representation of knowledge. Related knowledge representation formalisms
+mainly include vocabularies, thesaurus, semantic networks, axiom systems, frames, rules, logic programs,
+and ontologies. Examples of automated reasoning engines include inference engines, theorem provers,
+model generators, and classifiers. In a broader sense, parameterized models in machine learning —
+including neural network architectures such as convolutional neural networks and transformers — can
+also be regarded as a family of knowledge representation formalisms. The question of which formalism is
+most appropriate for knowledge-based systems has long been a subject of extensive debate. For instance,
+Frank van Harmelen et al. discussed the suitability of logic as a knowledge representation formalism and
+reviewed arguments presented by anti-logicists. Paul Smolensky criticized the limitations of symbolic
+formalisms and explored the possibilities of integrating it with connectionist approaches."
+( https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning )
+LIST OF COMPUTABILITY AND COMPLEXITY TOPICS
+"This is a list of computability and complexity topics, by Wikipedia page. Computability theory is the part
+of the theory of computation that deals with what can be computed, in principle. Computational
+complexity theory deals with how hard computations are, in quantitative terms, both with upper bounds
+(algorithms whose complexity in the worst cases, as use of computing resources, can be estimated), and
+from below (proofs that no procedure to carry out some task can be very fast). For more abstract
+foundational matters, see the list of mathematical logic topics. See also list of algorithms, list of algorithm
+general topics."
+( https://en.wikipedia.org/wiki/List_of_computability_and_complexity_topics )
+MEREOLOGY
+"Mereology (/mɪəriˈɒlədʒi/; from Greek μέρος 'part' (root: μερε-, mere-) and the suffix -logy, 'study,
+discussion, science') is the philosophical study of part-whole relationships, also called parthood
+relationships. As a branch of metaphysics, mereology examines the connections between parts and their
+wholes, exploring how components interact within a system. This theory has roots in ancient philosophy,
+with significant contributions from Plato, Aristotle, and later, medieval and Renaissance thinkers like
+Thomas Aquinas and John Duns Scotus. Mereology was formally axiomatized in the 20th century by Polish
+logician Stanisław Leśniewski, who introduced it as part of a comprehensive framework for logic and
+mathematics, and coined the word 'mereology'."
+( https://en.wikipedia.org/wiki/Mereology )
+LIST OF LOGIC SYMBOLS
+"In logic, a set of symbols is commonly used to express logical representation. The following table lists
+many common symbols, together with their name, how they should be read out loud, and the related field
+of mathematics. Additionally, the subsequent columns contains an informal explanation, a short example,
+the Unicode location, the name for use in HTML documents, and the LaTeX symbol."
+( https://en.wikipedia.org/wiki/List_of_logic_symbols )
+LIST OF FIRST-ORDER THEORIES
+Dr. Goldoval
+�DoctorGo�dOva�
+"In first-order logic, a first-order theory is given by a set of axioms in some language. This entry lists some
+of the more common examples used in model theory and some of their properties."Home
+1
+Explain Gödel's incompleteness theorems
+ExploreAlan Turing's halting problem
+NotificationsMake leads more concise
+Chat
+Quick Answer
+SuperGrok
+Ask anything
+Premium
+Lists
+Bookmarks
+Communities
+Profile
+More
+Post
+Dr. Goldoval
+�DoctorGo�dOva�Home
+Explore
+Notifications
+1
+Chat
+SuperGrok
+Premium
+Lists
+Bookmarks
+Communities
+Profile
+More
+Post
+Dr. Goldoval
+�DoctorGo�dOva�Home
+Explore
+Notifications
+1
+Chat
+SuperGrok
+Premium
+Lists
+Bookmarks
+Communities
+Profile
+More
+Post
+Dr. Goldoval
+�DoctorGo�dOva�Home
+Explore
+Notifications
+1
+Chat
+SuperGrok
+Premium
+Lists
+Bookmarks
+Communities
+Profile
+More
+Post
+Dr. Goldoval
+�DoctorGo�dOva�Home
+Explore
+Notifications
+1
+Chat
+SuperGrok
+Premium
+Lists
+Bookmarks
+Communities
+Profile
+More
+Post
+Dr. Goldoval
+�DoctorGo�dOva�Home
+Explore
+Notifications
+1
+Chat
+SuperGrok
+Premium
+Lists
+Bookmarks
+Communities
+Profile
+More
+Post
+Dr. Goldoval
+�DoctorGo�dOva�
+
+
+
+
+NUANCE
+"
+noun
+Definition of nuance
+1
+as in distinction
+as in subtlety They studied every nuance conveyed in the painting.
+
+Related Words
+Relevance
+
+    distinction
+    subtlety
+    sophistication
+    nicety
+    hint
+    finesse
+    refinement
+    touch
+    subtilty
+    delicacy
+    shade
+    trace
+
+Dissimilar Words
+
+    roughness
+    vulgarity
+    coarseness
+    crudeness
+    grossness
+
+2
+as in sensitivity
+as in insight She had the nuance to express delicate feelings without being melodramatic.
+
+Related Words
+
+    sensitivity
+    insight
+    acuity
+    discernment
+    acumen
+    acuteness
+    sharpness
+    perceptiveness
+    keenness
+
+Dissimilar Words
+
+    ignorance
+    dullness
+    stupidity
+    insensitivity
+    obtuseness
+
+
+DISCRETE
+adjective
+di-ˈskrēt 
+Definition of discrete
+as in single
+not physically attached to another unit several discrete sections to this vast medical complex, including a college of pharmacology and a research center
+
+Synonyms & Similar Words
+Relevance
+
+    single
+    separate
+    detached
+    private
+    unconnected
+    independent
+    free
+    individual
+    disconnected
+    freestanding
+    unattached
+    self-contained
+
+Antonyms & Near Antonyms
+
+    connected
+    joined
+    attached
+    linked
+    adjoining
+
+
+"
+( https://www.merriam-webster.com/thesaurus/nuance )
+
+
+
+
+FIRST-ORDER LOGIC 
+"In nominalism, first-order logic—also known as predicate logic, quantificational logic, and first-order predicate calculus—is a collection of formal systems used in mathematics, philosophy, linguistics, and computer science. First-order logic uses quantified variables over non-logical objects, and allows the use of sentences that contain variables, so that rather than propositions such as 'Socrates is a man', one can have expressions in the form 'there exists x such that x is Socrates and x is a man', where 'there exists' is a quantifier, while x is a variable." 
+( https://en.wikipedia.org/wiki/First-order_logic )
+
+
+
+SOCIAL EPISTEMOLOGY 
+"Social epistemology is a broad set of approaches within epistemology (the theory of knowledge) that can be defined as the study of the social dimensions of knowledge. This can be understood as the study of how social groups and institutions contribute to the production and dissemination of knowledge." 
+( https://en.wikipedia.org/wiki/Social_epistemology )
+
+
+
+NEIGHBORHOOD SEMANTICS 
+"Neighborhood semantics (also known as Scott–Montague semantics) is a formal semantics for modal logics. It is a generalization of the relational semantics (also known as Kripke semantics) for modal logic. While relational semantics interprets modal operators using a binary relation between worlds, neighborhood semantics interprets them using a 'neighborhood function' that assigns to each world a collection of sets of worlds (its 'neighborhoods')." 
+( https://en.wikipedia.org/wiki/Neighborhood_semantics )
+
+
+
+AXIOMATIC SYSTEM 
+"In mathematics and logic, an axiomatic system is any set of axioms from which some or all axioms can be used in conjunction to logically derive theorems. A theory is a self-consistent, logical body of knowledge that contains an axiomatic system and all its derived theorems. An axiomatic system that is completely described is a special kind of formal system." 
+( https://en.wikipedia.org/wiki/Axiomatic_system )
+
+
+
+TAUTOLOGY (LOGIC) 
+"In mathematical logic, a tautology (from Greek: ταυτολογία) is a formula or assertion that is true in every possible interpretation. An example is 'x=y or x=y'. A formula of propositional logic is a tautology if it is true under any possible assignment of truth values to its propositional variables." 
+( https://en.wikipedia.org/wiki/Tautology_(logic) )
+
+
+
+EPISTEMIC MODAL LOGIC 
+"Epistemic modal logic is a subfield of modal logic that is concerned with reasoning about knowledge. While epistemology has a long philosophical history dating back to Ancient Greece, epistemic logic is a much more recent development with applications in many fields, including philosophy, theoretical computer science, artificial intelligence, economics and linguistics." 
+( https://en.wikipedia.org/wiki/Epistemic_modal_logic )
+
+
+
+MODAL LOGIC 
+"Modal logic is a class of formal systems that represent statements about necessity and possibility. It extends propositional or first-order logic with operators expressing modality—the mode or mood of a statement. For instance, 'it is possible that' and 'it is necessary that' are modal operators." 
+( https://en.wikipedia.org/wiki/Modal_logic#Alethic_logic )
+
+
+
+THREE-VALUED LOGIC 
+"In logic, a three-valued logic (also tri-valued, ternary, or trivalent logic, sometimes abbreviated 3VL) is any of several multi-valued logics in which there are three truth values indicating true, false and some third value. This is contrasted with the more common bivalent logics (such as classical sentential or predicate logic) which provide only for true and false." 
+( https://en.wikipedia.org/wiki/Three-valued_logic )
+
+
+
+DEVIANT LOGIC 
+"Deviant logic is a type of non-classical logic that rejects one or more of the principles of classical logic. While 'extended logics' add new constants or operators to classical logic, deviant logics provide an alternative to classical logic by changing how the standard logical constants (like 'not', 'and', or 'or') behave." 
+( https://en.wikipedia.org/wiki/Deviant_logic )
+
+
+
+LOGIC 
+"Logic is the study of correct reasoning. It includes both formal and informal logic. Formal logic is the study of deductively valid inferences or logical truths. It examines how conclusions follow from premises based on the structure of arguments alone, independent of their topic and content. Informal logic is associated with informal fallacies, critical thinking, and argumentation theory." 
+( https://en.wikipedia.org/wiki/Logic#Systems_of_logic )
+
+
+
+FORMAL SYSTEM 
+"In logic, a formal system (also called a logical system, a logical calculus, or a formal theory) is used to derive theorems from premises according to a fixed set of rules. These rules, which are used to carry out the derivation of theorems from axioms, are the system's axioms and rules of inference. A formal system is essentially a 'mathematical model' of a system of reasoning." 
+( https://en.wikipedia.org/wiki/Formal_system )
+
+
+
+
+
+IMPLICATURE
+"In pragmatics, a subdiscipline of linguistics, an implicature is something the speaker suggests or implies with an utterance, even though it is not literally expressed. Implicatures can aid in communicating more efficiently than by explicitly saying everything we want to communicate.[1] The philosopher H. P. Grice coined the term in 1975. Grice distinguished conversational implicatures, which arise because speakers are expected to respect general rules of conversation, and conventional ones, which are tied to certain words such as but or therefore.[2] Take for example the following exchange:
+
+    A (to passerby): I am out of gas.
+    B: There is a gas station 'round the corner.
+
+Here, B does not say, but conversationally implicates, that the gas station is open, because otherwise his utterance would not be relevant in the context.[3][4] Conversational implicatures are classically seen as contrasting with entailments: they are not necessary or logical consequences of what is said, but are defeasible (cancellable).[5][6] So, B could continue without contradiction:
+
+    B: But unfortunately it's closed today.
+
+An example of a conventional implicature is "Donovan is poor but happy", where the word but implicates a sense of contrast between being poor and being happy.[7]
+
+Later linguists introduced and refined different definitions of the term, leading to somewhat different ideas about which parts of the information conveyed by an utterance are actually implicatures and which are not.[8][9]"
+( https://en.wikipedia.org/wiki/Implicature ) 
+
+
+
+PRAGMATICS
+"In linguistics and the philosophy of language, pragmatics is the study of how context contributes to meaning. The field of study evaluates how human language is utilized in social interactions, as well as the relationship between the interpreter and the interpreted.[1] Linguists who specialize in pragmatics are called pragmaticians. The field has been represented since 1986 by the International Pragmatics Association (IPrA).
+
+Pragmatics encompasses phenomena including implicature, speech acts, relevance and conversation,[2] as well as nonverbal communication. Theories of pragmatics go hand-in-hand with theories of semantics, which studies aspects of meaning, and syntax, which examines sentence structures, principles, and relationships. Pragmatics, together with semantics and syntactics, is a part of semiotics.[3] The ability to understand another speaker's intended meaning is called pragmatic competence.[4][5][6] In 1938, Charles Morris first distinguished pragmatics as an independent subfield within semiotics, alongside syntax and semantics.[7] Pragmatics emerged as its own subfield in the 1950s after the pioneering work of J. L. Austin and Paul Grice.[8][9]" 
+( https://en.wikipedia.org/wiki/Pragmatics )
+
+
+
+
+PRAGMATIC COMPETENCE
+Google Search deffinition
+"Pragmatic Competence" refers to the ability to use language appropriately in social contexts, and several books explore this topic, particularly in second language acquisition (SLA). Key titles include Measuring Second Language Pragmatic Competence, which focuses on testing methods, and Pragmatic Competence and Relevance, which links it to cognitive theory. Other works, like Context, Individual Differences and Pragmatic Competence, investigate factors like motivation and context in its development, often using Japanese as a case study. 
+Key books on pragmatic competence
+
+
+
+
+SEMIOTICS
+"Semiotics[a] is the study of signs. It is an interdisciplinary field that examines what signs are, how they form sign systems, and how individuals use them to communicate meaning. Its main branches are syntactics, which addresses formal relations between signs, semantics, which addresses the relation between signs and their meanings, and pragmatics, which addresses the relation between signs and their users. Semiotics is related to linguistics but has a broader scope that includes nonlinguistic signs, such as maps and clothing.
+
+Signs are entities that stand for something else, like the word cat, which stands for a carnivorous mammal. They can take many forms, such as sounds, images, written marks, and gestures. Iconic signs operate through similarity. For them, the sign vehicle resembles the referent, such as a portrait of a person. Indexical signs are based on a direct physical link, such as smoke as a sign of fire. For symbolic signs, the relation between sign vehicle and referent is conventional or arbitrary, which applies to most linguistic signs. Models of signs analyze the basic components of signs. Ferdinand de Saussure's dyadic model identifies a perceptible image and a concept as the core elements, whereas Charles Sanders Peirce's triadic model distinguishes a sign vehicle, a referent, and an effect in the interpreter's mind.
+
+Sign systems are structured networks of interrelated signs, such as the English language. Semioticians study how signs combine to form larger expressions, called texts. They explore how the message of a text depends on the meanings of the signs composing it and how contextual factors and tropes influence this process. They also investigate the codes employed to communicate meaning, including conventional codes, such as the color code of traffic signals, and natural codes, such as DNA encoding hereditary information.
+
+Semiotics has diverse applications because of the pervasive nature of signs. Many semioticians study cultural products, such as literature, art, and media, investigating both the elements used to express meaning and the subtle ideological messages they convey. The psychological activities associated with sign use are another research topic. Biosemiotics extends the scope of inquiry beyond human communication, examining sign processes within and between animals, plants, and other organisms. Semioticians typically adjust their research approach to their specific domain without a single methodology adopted by all subfields. Although the roots of semiotic research lie in antiquity, it was not until the late 19th and early 20th centuries that semiotics emerged as an independent field of inquiry.
+Definitions and related fields
+Black-and-white photo of a bearded man
+Black-and-white photo of a man with a moustache
+Charles Sanders Peirce and Ferdinand de Saussure helped establish semiotics as a distinct field of inquiry.[2]
+
+Semiotics is the study of signs or of how meaning is created and communicated through them. Also called semiology,[b] it examines the nature of signs, their organization into signs systems, like language, and the ways individuals interpret and use them. Semiotics has wide-reaching applications because of the pervasive nature of signs, affecting how individuals experience phenomena, communicate ideas, and interact with the world.[4]
+
+These applications make it an interdisciplinary field, originating in philosophy and linguistics and closely related to disciplines like psychology, anthropology, aesthetics, sociology, and education sciences.[5] Because most sciences rely on sign processes in some form, semiotics is sometimes characterized as a meta-discipline that provides a general approach for the analysis of signs across domains.[6] It is controversial whether semiotics is itself a science since there are no universally accepted theoretical assumptions or methods on which semioticians agree.[7] Semiotics has also been characterized as a theory, a doctrine, a movement, or a discipline.[8] Apart from its interdisciplinary applications, pure semiotics is typically divided into three branches: semantics, syntactics, and pragmatics, studying how signs relate to objects, to each other, and to sign users, respectively.[9]
+
+Semiotic inquiry overlaps in various ways with linguistics and communication theory. It shares with linguistics the interest in the analysis of sign systems, examining the meanings of words, how they are combined to form sentences, and how they convey messages in concrete contexts. A key difference is that linguistics focuses on language, while semiotics also studies non-linguistic signs, such as images, gestures, traffic signs, and animal calls.[10] Communication theory studies how individuals encode, convey, and interpret both linguistic and non-linguistic messages. It typically focuses on technical aspects of how messages are transmitted, usually between distinct organisms. Semiotics, by contrast, concentrates on the meaning of messages and the creation of meaning, including the role of non-communicative signs.[11][c] For example, semioticians also study naturally occurring biological signs, like disease symptoms, and signs based on inanimate relations, such as smoke as a sign of fire.[13]
+
+The term semiotics derives from the Greek word σημειωτική (semeiotike), originally associated with the study of disease symptoms.[14] Proposing a new field of inquiry of signs, John Locke suggested the Greek term as its name.[15] The first use of the English term semiotics dates to the 1670s.[1] Semiotics became a distinct field of inquiry following the works of the philosopher Charles Sanders Peirce and the linguist Ferdinand de Saussure, the founders of the discipline.[2]" 
+( https://en.wikipedia.org/wiki/Semiotics )
+
+
+
+COMMUNICATION THEORY 
+"is a proposed description of communication phenomena, the relationships among them, a storyline describing these relationships, and an argument for these three elements. Communication theory provides a way of talking about and analyzing key events, processes, and commitments that together form communication. Theory can be seen as a way to map the world and make it navigable; communication theory gives us tools to answer empirical, conceptual, or practical communication questions.[1]
+
+Communication is defined in both commonsense and specialized ways. Communication theory emphasizes its symbolic and social process aspects as seen from two perspectives—as exchange of information (the transmission perspective), and as work done to connect and thus enable that exchange (the ritual perspective).[2]
+
+Sociolinguistic research in the 1950s and 1960s demonstrated that the level to which people change their formality of their language depends on the social context that they are in. This had been explained in terms of social norms that dictated language use. The way that we use language differs from person to person.[3]
+
+Communication theories have emerged from multiple historical points of origin, including classical traditions of oratory and rhetoric, Enlightenment-era conceptions of society and the mind, and post-World War II efforts to understand propaganda and relationships between media and society.[4][5][6] Prominent historical and modern foundational communication theorists include Kurt Lewin, Harold Lasswell, Paul Lazarsfeld, Carl Hovland, James Carey, Elihu Katz, Kenneth Burke, John Dewey, Jurgen Habermas, Marshall McLuhan, Theodor Adorno, Antonio Gramsci, Jean-Luc Nancy, Robert E. Park, George Herbert Mead, Joseph Walther, Claude Shannon, Stuart Hall and Harold Innis—although some of these theorists may not explicitly associate themselves with communication as a discipline or field of study.[4][6][7][8]" 
+( https://en.wikipedia.org/wiki/Communication_theory ) 
+
+
+ 
+
+COMMUNICATIVE COMPETENCE
+"The concept of communicative competence, as developed in linguistics, originated in response to perceived inadequacy of the notion of linguistic competence. That is, communicative competence encompasses a language user's grammatical knowledge of syntax, morphology, phonology and the like, but reconceives this knowledge as a functional, social understanding of how and when to use utterances appropriately.
+
+Communicative language teaching is a pedagogical application of communicative competence.[1]
+
+The understanding of communicative competence has been influenced by the field of pragmatics and the philosophy of language, including work on speech acts.[2]"  
+( https://en.wikipedia.org/wiki/Communicative_competence ) 
+
+
+FORMAL LANGUAGE
+"In logic, mathematics, computer science, and linguistics, a formal language is a set of strings whose symbols are taken from a set called "alphabet".
+
+The alphabet of a formal language consists of symbols that concatenate into strings (also called "words").[1] Words that belong to a particular formal language are sometimes called well-formed words. A formal language is often defined by means of a formal grammar such as a regular grammar or context-free grammar.
+
+In computer science, formal languages are used, among others, as the basis for defining the grammar of programming languages and formalized versions of subsets of natural languages, in which the words of the language represent concepts that are associated with meanings or semantics. In computational complexity theory, decision problems are typically defined as formal languages, and complexity classes are defined as the sets of the formal languages that can be parsed by machines with limited computational power. In logic and the foundations of mathematics, formal languages are used to represent the syntax of axiomatic systems, and mathematical formalism is the philosophy that all of mathematics can be reduced to the syntactic manipulation of formal languages in this way.
+
+The field of formal language theory studies primarily the purely syntactic aspects of such languages—that is, their internal structural patterns. Formal language theory sprang out of linguistics, as a way of understanding the syntactic regularities of natural languages. 
+
+Formal languages
+Key concepts
+
+    Formal system Alphabet Syntax Formal semantics Semantics (programming languages) Formal grammar Formation rule Well-formed formula Automata theory Regular expression Production Ground expression Atomic formula
+
+Applications
+
+    Formal methods Propositional calculus Predicate logic Mathematical notation Natural language processing Programming language theory Mathematical linguistics Computational linguistics Syntax analysis Formal verification Automated theorem proving ASSEMBLANG
+
+In the 17th century, Gottfried Leibniz imagined and described the characteristica universalis, a universal and formal language which utilised pictographs. Later, Carl Friedrich Gauss investigated the problem of Gauss codes.[2]
+
+Gottlob Frege attempted to realize Leibniz's ideas, through a notational system first outlined in Begriffsschrift (1879) and more fully developed in his 2-volume Grundgesetze der Arithmetik (1893/1903).[3] This described a "formal language of pure language."[4] 
+
+Definition
+
+Given a non-empty set Σ {\displaystyle \Sigma }, a formal language L {\displaystyle L} over Σ {\displaystyle \Sigma } is a subset of Σ ∗ {\displaystyle \Sigma ^{*}}, which is the set of all possible finite-length words over Σ {\displaystyle \Sigma }. We call the set Σ {\displaystyle \Sigma } the alphabet of L {\displaystyle L}. On the other hand, given a formal language L {\displaystyle L} over Σ {\displaystyle \Sigma }, a word w ∈ Σ ∗ {\displaystyle w\in \Sigma ^{*}} is well-formed if w ∈ L {\displaystyle w\in L}. Similarly, an expression E ⊆ Σ ∗ {\displaystyle E\subseteq \Sigma ^{*}} is well-formed if E ⊆ L {\displaystyle E\subseteq L}. Sometimes, a formal language L {\displaystyle L} over Σ {\displaystyle \Sigma } has a set of clear rules and constraints for the creation of all possible well-formed words from Σ ∗ {\displaystyle \Sigma ^{*}}.
+
+In computer science and mathematics, which do not usually deal with natural languages, the adjective "formal" is often omitted as redundant. On the other hand, we can just say "a formal language L {\displaystyle L}" when its alphabet Σ {\displaystyle \Sigma } is clear in the context.
+
+While formal language theory usually concerns itself with formal languages that are described by some syntactic rules, the actual definition of the concept "formal language" is only as above: a (possibly infinite) set of finite-length strings composed from a given alphabet, no more and no less. In practice, there are many languages that can be described by rules, such as regular languages or context-free languages. The notion of a formal grammar may be closer to the intuitive concept of a "language", one described by syntactic rules. By an abuse of the definition, a particular formal language is often thought of as being accompanied with a formal grammar that describes it.
+Examples
+
+The following rules describe a formal language L over the alphabet Σ = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, +, =}:
+
+    Every nonempty string that does not contain "+" or "=" and does not start with "0" is in L.
+    The string "0" is in L.
+    A string containing "=" is in L if and only if there is exactly one "=", and it separates two valid strings of L.
+    A string containing "+" but not "=" is in L if and only if every "+" in the string separates two valid strings of L.
+    No string is in L other than those implied by the previous rules.
+
+Under these rules, the string "23+4=555" is in L, but the string "=234=+" is not. This formal language expresses natural numbers, well-formed additions, and well-formed addition equalities, but it expresses only what they look like (their syntax), not what they mean (semantics). For instance, nowhere in these rules is there any indication that "0" means the number zero, "+" means addition, "23+4=555" is false, etc.
+Constructions
+
+For finite languages, one can explicitly enumerate all well-formed words. For example, we can describe a language L as just L = {a, b, ab, cba}. The degenerate case of this construction is the empty language, which contains no words at all (L = ∅).
+
+However, even over a finite (non-empty) alphabet such as Σ = {a, b} there are an infinite number of finite-length words that can potentially be expressed: "a", "abb", "ababba", "aaababbbbaab", .... Therefore, formal languages are typically infinite, and describing an infinite formal language is not as simple as writing L = {a, b, ab, cba}. Here are some examples of formal languages:
+
+    L = Σ*, the set of all words over Σ;
+    L = {a}* = {an}, where n ranges over the natural numbers and "an" means "a" repeated n times (this is the set of words consisting only of the symbol "a");
+    the set of syntactically correct programs in a given programming language (the syntax of which is usually defined by a context-free grammar);
+    the set of inputs upon which a certain Turing machine halts; or
+    the set of maximal strings of alphanumeric ASCII characters on this line, i.e.,
+    the set {the, set, of, maximal, strings, alphanumeric, ASCII, characters, on, this, line, i, e}.
+"
+( https://en.wikipedia.org/wiki/Formal_language ) 
+
+THESE NEED TO BE POPULATED 
+
+
+https://en.wikipedia.org/wiki/First-order_logic 
+
+https://en.wikipedia.org/wiki/Social_epistemology 
+
+https://en.wikipedia.org/wiki/Neighborhood_semantics 
+
+https://en.wikipedia.org/wiki/Axiomatic_system 
+
+https://en.wikipedia.org/wiki/Tautology_(logic) 
+
+https://en.wikipedia.org/wiki/Epistemic_modal_logic
+
+https://en.wikipedia.org/wiki/Modal_logic#Alethic_logic 
+
+https://en.wikipedia.org/wiki/Three-valued_logic 
+
+https://en.wikipedia.org/wiki/Deviant_logic  
+
+https://en.wikipedia.org/wiki/Logic#Systems_of_logic  
+
+https://en.wikipedia.org/wiki/Formal_system
+
+
+
+
+
+
+
+
+
+
